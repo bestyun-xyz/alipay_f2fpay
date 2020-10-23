@@ -8,11 +8,10 @@
 3.运行f2fpay.exe<br>
 4.访问http://127.0.0.1 进行测试<br>
 
-![image](https://github.com/bestyun-xyz/alipay_f2fpay/blob/main//screenshot/index.png)
-![image](https://github.com/bestyun-xyz/alipay_f2fpay/blob/main//screenshot/barpay.png)
-![image](https://github.com/bestyun-xyz/alipay_f2fpay/blob/main//screenshot/qrpay.png)
-![image](https://github.com/bestyun-xyz/alipay_f2fpay/blob/main//screenshot/query.png)
-![image](https://github.com/bestyun-xyz/alipay_f2fpay/blob/main//screenshot/refund.png)
+![image](https://github.com/bestyun-xyz/alipay_f2fpay/blob/main//screenshot/index.png)<br>
+![image](https://github.com/bestyun-xyz/alipay_f2fpay/blob/main//screenshot/barpay.png)<br>
+![image](https://github.com/bestyun-xyz/alipay_f2fpay/blob/main//screenshot/qrpay.png)<br>
+![image](https://github.com/bestyun-xyz/alipay_f2fpay/blob/main//screenshot/query.png)<br>
+![image](https://github.com/bestyun-xyz/alipay_f2fpay/blob/main//screenshot/refund.png)<br>
 
-<br>
 ### 2020.10.23 测试所有功能正常
